@@ -1,0 +1,15 @@
+.slide-section{
+    background-color: antiquewhite;
+}    
+.card-header-style{
+    text-decoration: none;
+}
+.card-4{
+    background-color: blue;
+}
+.footer-sec{
+    height: 300px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
